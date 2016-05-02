@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cihm_04591_0001.png"; bbox 0 0 2953 3622; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 197 835 2403 1081">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 197 835 2403 1081">
+     <span class='ocr_line' id='line_1_1' title="bbox 197 835 2373 939; baseline -0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 197 835 199 843; x_wconf 82' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 746 855 1395 939; x_wconf 71' lang='lat' dir='ltr'><strong>cmmncmfl</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1727 848 2373 931; x_wconf 67' lang='grc' dir='ltr'>οιΗΜκιοΜΗ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 198 960 2403 1081; baseline -0.006 -31"><span class='ocrx_word' id='word_1_4' title='bbox 198 975 200 1081; x_wconf 60' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_5' title='bbox 750 970 1298 1049; x_wconf 80' lang='lat' dir='ltr'><strong>Microfiche</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1727 962 2238 1042; x_wconf 78' lang='lat' dir='ltr'>collection</span> <span class='ocrx_word' id='word_1_7' title='bbox 2287 960 2403 1037; x_wconf 83' lang='lat' dir='ltr'><strong>de</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 746 1074 2356 1163">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 746 1074 2356 1163">
+     <span class='ocr_line' id='line_1_3' title="bbox 746 1074 2356 1163; baseline -0.009 0"><span class='ocrx_word' id='word_1_8' title='bbox 746 1084 1084 1163; x_wconf 81' lang='lat' dir='ltr'><strong>Series,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1730 1074 2356 1153; x_wconf 77' lang='lat' dir='ltr'><strong>microficheS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1198 2953 3622">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1198 2953 3622">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1198 2953 3622; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 1198 2953 3622; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
